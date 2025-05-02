@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Estilo do artigo */
+
+.artigo h1 {
+  font-size: 32px;
+  color: #232536;
+  font-weight: 600;
+}
+
+.artigo h2 {
+  font-size: 24px;
+  color: #232536;
+  font-weight: 600;
+}
+
+.artigo p {
+  font-size: 20px;
+  line-height: 150%;
+  color: #667085;
+}
